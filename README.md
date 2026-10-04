@@ -1,5 +1,7 @@
 # 🧪 NexusEnroll Microservices Testing Guide
 
+[![NexusEnroll CI/CD Pipeline](https://github.com/SandhanuDulmeth/nexus-enroll2.0/actions/workflows/ci.yml/badge.svg)](https://github.com/SandhanuDulmeth/nexus-enroll2.0/actions/workflows/ci.yml)
+
 This guide provides instructions on how to execute test suites for the **NexusEnroll Microservices Architecture**. There are two ways to test the application:
 
 1. **Automated End-to-End API Test Suite (`run-api-tests.js`)** — Tests the live running microservices via Docker & API Gateway.
